@@ -1,7 +1,7 @@
 # Hii, This is Aryan Jaiswal 
 **Aspiring Software Developer | AI/ML | CSE Student at MMMUT Gorakhpur**<br><br>I am a Computer Science Engineering student at MMMUT Gorakhpur passionate about Data Structures & Algorithms, Competitive Programming, Full Stack Development, and AI/ML. I have solved **1000+ DSA problems** and enjoy building practical, scalable applications.<br><br>* 💻 Solved **1000+ DSA problems** across coding platforms.<br>* 🚀 Built projects like **DevTinder**, **LeetMetric**, and **AI/ML applications**.<br>* 🌱 Currently learning **AI/ML**, **System Design**, and advanced DSA.<br>* 🏆 Active in hackathons, coding contests, and technical communities.<br>* ✨ Passionate about learning, building, and solving real-world problems.<br>* 🤝 Open to collaboration and Software Engineering opportunities.<br>
 
-#### 🔗 **Portfolio:** [aryanjaiswal-454.github.io](https://aryanjaiswal-454.github.io/)
+### 🔗 **Portfolio:** [aryanjaiswal-454.github.io](https://aryanjaiswal-454.github.io/)
 
 ## 🌐 Socials:
 
